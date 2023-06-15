@@ -1,6 +1,4 @@
-<h1 align="center">Hi 👋, I'm Shubham Revankar</h1>
-<h3 align="center">A Passionate FullStack Developer and Problem Solver from India</h3>
-
+![Header](./github-header-image.png)
 
 - 🔭 I’m currently working on [eCommerce Website (FullStack)](https://supermart-ecommerce.netlify.app)
 
