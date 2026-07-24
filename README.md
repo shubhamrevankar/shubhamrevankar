@@ -15,8 +15,8 @@ Permission-aware retrieval with database-enforced ACLs, hybrid search,
 reranking, citation validation, evaluation and observability.
 
 - 110-case deterministic evaluation suite
-- 95.1% Recall@5
-- 0% RBAC leakage
+- 95.1% Recall@5 and 1.000 reranked MRR
+- 0% RBAC leakage and 100% refusal accuracy
 - Docker, CI, Prometheus and Grafana
 
 [Repository](https://github.com/shubhamrevankar/SecureRAG) | [Demo](https://youtu.be/j3Dn1Y7hyXE)
@@ -33,6 +33,10 @@ Redis Streams.
 
 [Repository](https://github.com/shubhamrevankar/TaskForge-Workflow-Orchestrator) | [Demo](https://youtu.be/FTRpo9q7h18)
 
+## Core Technologies
+
+Java · Python · TypeScript · PostgreSQL · Kafka · Flink · Kubernetes · Docker
+
 ## Current Focus
 
 - AI agent infrastructure
@@ -42,4 +46,4 @@ Redis Streams.
 
 ## Contact
 
-[LinkedIn](https://www.linkedin.com/in/shubhamrevankar/) | shubhamsrevankar8668@gmail.com
+[LinkedIn](https://www.linkedin.com/in/shubhamrevankar/) | [Email](mailto:shubhamsrevankar8668@gmail.com)
