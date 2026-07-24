@@ -1,10 +1,9 @@
 ![Header](./github-header-image.png)
 
-- 🔭 I’m currently working on [eCommerce Website (FullStack)](https://supermart-ecommerce.netlify.app)
-
-- 🌱 I’m currently learning **MERN**
-
-- 💬 Ask me about **react, mern**
+Software Engineer with experience in building distributed cloud infrastructure, AI-powered automation platforms, and
+full-stack applications using Java, Python, React.js, Kubernetes, Apache Kafka, Apache Flink, Docker, Terraform, and
+Cloud Infrastructure. Passionate about backend engineering, distributed systems, and production-grade Generative AI
+applications including Agentic AI and Retrieval-Augmented Generation (RAG).
 
 - 📫 How to reach me **shubhamsrevankar8668@gmail.com**
 
